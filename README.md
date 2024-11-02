@@ -8,7 +8,7 @@ School of Biosciences, The University of Melbourne, Parkville, VIC 3010, Austral
 
 This repository contains scripts and instructions to replicate the analyses of the paper: DOI/XXXX
 
-Data to replicate the analyses is available in Zenodo
+Data to replicate the analyses is available in [Zenodo](https://zenodo.org/records/14027791)
 
 1. Heating rates experiment, available [here](https://fcsalgado.github.io/christmas_spider_climate/scripts/solar_simulator.html)
 2. Field body temperature data processing, available [here](https://fcsalgado.github.io/christmas_spider_climate/scripts/field_temp_measures.html)
